@@ -1,13 +1,14 @@
-.adjust_font_size {
-    font-family: Helvetica, "Times new Roman", sans-serif;
-    font-size: 28px;
+.inverted,
+.fancy {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
 }
 
-#one {
-    background-color: black;
-    color: white;
+.inverted {
+  background-color: black;
+  color: white;
 }
 
-#two {
-    background-color: yellow;
+.fancy {
+  background-color: yellow;
 }

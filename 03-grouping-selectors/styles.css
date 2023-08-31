@@ -1,0 +1,13 @@
+.adjust_font_size {
+    font-family: Helvetica, "Times new Roman", sans-serif;
+    font-size: 28px;
+}
+
+#one {
+    background-color: black;
+    color: white;
+}
+
+#two {
+    background-color: yellow;
+}
